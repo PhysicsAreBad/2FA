@@ -1,0 +1,6 @@
+name: 2FA-Paper
+version: 1.0-SNAPSHOT
+main: me.physicsarebad.twofapaper.TwoFAPaper
+authors: [PhysicsAreBad]
+api-version: 1.13
+description: Slave plugin for Two Factor Authentication that prevents movement on servers

@@ -1,0 +1,5 @@
+name: 2FA
+version: 1.0-SNAPSHOT
+main: me.physicsarebad.twofactorauth.TwoFactorAuth
+description: Two Factor Authentication plugin (Fiverr Request)
+author: PhysicsAreBad

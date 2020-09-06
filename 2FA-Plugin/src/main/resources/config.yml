@@ -1,0 +1,8 @@
+messages:
+  prefix: '&c2FA &7➵'
+  first-time: 'Welcome to Two Factor Authentication, please put the following key into an authenticator app using the manual entry option. After that, please enter the 6 digit code given.'
+  login: 'Welcome back! Please enter your 6 digit 2FA code to continue.'
+  confirmed: 'Thank you for verifying, you now may continue.'
+  incorrect: 'That was the incorrect code, please try again.'
+  session-active: 'Your IP did not change and your session is still active so you will not be asked for an authentication key on this login.'
+timeout: 48 #In hours
